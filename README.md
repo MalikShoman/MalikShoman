@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Malik Shoman 👋
 
-<!--
-**MalikShoman/MalikShoman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer with 2+ years of experience building SaaS and e-commerce applications.
 
-Here are some ideas to get you started:
+### Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend**
+- Angular
+- TypeScript
+- Bootstrap
+
+**Backend**
+- .NET / ASP.NET Core
+- Spring Boot
+- Firebase firestore and realtime
+
+**Databases**
+- SQL Server
+- MySQL
+
+**Tools**
+- Firebase
+- Git
+- AI Tools
+- Namecheap
+
+### Experience
+
+✅ SaaS Platforms  
+✅ E-commerce Systems  
+✅ REST APIs  
+✅ Admin Dashboards  
+✅ Authentication & Authorization  
+
+### Currently Learning
+
+- System Design
+- DevOps essintials
+- AI-Powered Applications
+- Automation using N8N
+
+📫 Open to collaboration and interesting projects.
